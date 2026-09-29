@@ -148,9 +148,14 @@ npx expo start
 
 Depois, escolha o ambiente desejado para executar o aplicativo.
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedores
 
 **Caique Lima Alves**
+**Guilherme Ribeiro**
+**Pedro Augusto**
+**Isaque de Sousa**
+**Allan Queiroz**
+**Henrique Almeida**
 
 Estudante de Desenvolvimento de Sistemas, com foco em **C#, .NET, APIs, React Native, TypeScript e desenvolvimento Full Stack**.
 
